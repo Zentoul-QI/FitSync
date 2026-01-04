@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370610766158",
+    "project_id": "h2ss-82772",
+    "storage_bucket": "h2ss-82772.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370610766158:android:07f95af17aeb5b2d57de1f",
+        "android_client_info": {
+          "package_name": "com.example.workfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdCCeMMidLrKamY_SPbA-wO8-YuBKUXkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
